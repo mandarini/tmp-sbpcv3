@@ -1,0 +1,8 @@
+{
+  "name": "nextapp-e2e",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "nextapp-e2e/src",
+  "targets": {},
+  "tags": [],
+  "implicitDependencies": ["nextapp"]
+}

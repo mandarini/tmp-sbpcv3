@@ -1,0 +1,16 @@
+{
+  "name": "nextapp",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "nextapp",
+  "projectType": "application",
+  "targets": {
+    "test": {
+      "executor": "@nx/jest:jest",
+      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
+      "options": {
+        "jestConfig": "nextapp/jest.config.ts"
+      }
+    }
+  },
+  "tags": []
+}
