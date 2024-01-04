@@ -2725,120 +2725,120 @@
     read-package-json-fast "^3.0.0"
     which "^4.0.0"
 
-"@nrwl/angular@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fangular/-/angular-18.0.0-kate.5.tgz#4dde34fb47a392e08aaecba33739c2c5f1164ba7"
-  integrity sha512-1DtBcu0CM1Qx0IZ/cmEqkhd7jef+oy2wnfWSmbwJYt+ipQI/DUNnfiHVvhl1KxLE16T/EtqznWHT/OtzVizn6Q==
+"@nrwl/angular@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fangular/-/angular-18.0.0-kate.6.tgz#b216579a604ceacecef2d8caa458a57cfe413ad9"
+  integrity sha512-zqwYGlwkTL7NdGrJhmCZAAE2nI/54qC53/IsdV6OMil/AUALQmIbL4ydSYBxBlr9t2sgldBWycYQOGK6NnRBig==
   dependencies:
-    "@nx/angular" "18.0.0-kate.5"
+    "@nx/angular" "18.0.0-kate.6"
     tslib "^2.3.0"
 
-"@nrwl/cypress@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fcypress/-/cypress-18.0.0-kate.5.tgz#78032305f2a91fb168e0ee2316eee5cd198bb262"
-  integrity sha512-vDCeCrQZDw/SkxLDEcVv064ewX3njWykNemNjPIvQ/HHS5fgCDvr5ZB12NDN2i7cIgbC3AfOYuswao0fhGJT1g==
+"@nrwl/cypress@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fcypress/-/cypress-18.0.0-kate.6.tgz#998ebb328042dc394b1e898af442738898a3a71b"
+  integrity sha512-Eg+DQ8jooC+/TxR5EIc0ZHIN7OepdtBuxb34p8wV8FuBDBAf/97OfAfNaqCfwTxdaDIBf23OZc++Js4TKlIb0g==
   dependencies:
-    "@nx/cypress" "18.0.0-kate.5"
+    "@nx/cypress" "18.0.0-kate.6"
 
-"@nrwl/devkit@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fdevkit/-/devkit-18.0.0-kate.5.tgz#1d2c2225a879d46c784b8bc33b25324c16cf25f1"
-  integrity sha512-n0HYofCSMMyYRRhkUAHbV1MV0hYdo/j55hSQ2C+tFxi7fT/eWpzloQVCMBJvU+agHoBGP13LAk6ykskzScgjvA==
+"@nrwl/devkit@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fdevkit/-/devkit-18.0.0-kate.6.tgz#0fffbb56079a200044d672e89f7a86c33eac24d7"
+  integrity sha512-aTG12rK7YfqYpg2+/ygrpicsgyLwMApamswieLES1mxWI8/xa7ybj/uqnLnDRzIiCLGFAxQoTizU3zNoQ++J2g==
   dependencies:
-    "@nx/devkit" "18.0.0-kate.5"
+    "@nx/devkit" "18.0.0-kate.6"
 
-"@nrwl/eslint-plugin-nx@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2feslint-plugin-nx/-/eslint-plugin-nx-18.0.0-kate.5.tgz#5b02f02d570e28da394112728c7683a0fb0fd058"
-  integrity sha512-JudAt4uh5K4TUTKk2xE0tCxNjLZwDChpcR3LDc4P0lHq0VO/0lBzTi4IF5P5XOcyNHwS3VhiN7i9HNETLKPLnw==
+"@nrwl/eslint-plugin-nx@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2feslint-plugin-nx/-/eslint-plugin-nx-18.0.0-kate.6.tgz#6ec539b98bec582ff90cfe78290a91abc8bd445c"
+  integrity sha512-Fujv568iJYCpgp9QO6AwX5rQCAuKAxN+7abqHhT79Rx3646JIQkcZqZwnhrzc14up92ztVEOHJpoSibglUZqdg==
   dependencies:
-    "@nx/eslint-plugin" "18.0.0-kate.5"
+    "@nx/eslint-plugin" "18.0.0-kate.6"
 
-"@nrwl/jest@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fjest/-/jest-18.0.0-kate.5.tgz#5ef264a2ed48fb44a95f44a701467c3c802b59f7"
-  integrity sha512-ijPNwTs8/JZEYcaDt3dQtbAQuasdwM3KFMgNvTTdz+XN8F7LjS3YnN1fo4kiVNZpQOTEeyD8lG4AmfB4XTBnOQ==
+"@nrwl/jest@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fjest/-/jest-18.0.0-kate.6.tgz#2c4f3c9befad5de2b0041eca5a47f70242acf3c7"
+  integrity sha512-Lu1BcZFj+ixPAdk+nVZGSTqE/vW7QkOWCImRPsjeHYdQMeaqaexLm7xEKiKcF+oaEz9vFGFhapyX/HX+0bEXDw==
   dependencies:
-    "@nx/jest" "18.0.0-kate.5"
+    "@nx/jest" "18.0.0-kate.6"
 
-"@nrwl/js@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fjs/-/js-18.0.0-kate.5.tgz#9923b46dbf5dd18cb9171e18b47573ce83dbdf91"
-  integrity sha512-wx/NI3aiYOi6MB8Y6Bn7riuMyuJ5NyaSLqDVksY7oPjRX3WmHUQH9R9EZ3ZXh5UoV7Tf+/5Cc3VUMD7//ytaiw==
+"@nrwl/js@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fjs/-/js-18.0.0-kate.6.tgz#d2fc8566af661958d88124a92e503774870c4a29"
+  integrity sha512-VkZRSGpK5x039fSzNk2No6w4qimc16y/Xx5irz8xQTPGLPId0Yr+V4AZA9FrAxTA6wyGm/MggjynWk5MqshKzg==
   dependencies:
-    "@nx/js" "18.0.0-kate.5"
+    "@nx/js" "18.0.0-kate.6"
 
-"@nrwl/next@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fnext/-/next-18.0.0-kate.5.tgz#c86522fd536ab9164abf04fb123bc70f6dccc526"
-  integrity sha512-9bGWELNaYSaumhCtrAMtSvkBA+dNYlXT9/6MuhQhmNWIHjnBbe78TOFNU7yjH4XENJx3eaz7SH1N8QGNQc6Jnw==
+"@nrwl/next@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fnext/-/next-18.0.0-kate.6.tgz#e7b3abd67ea28c4b61f653ce2892ef2cf365b743"
+  integrity sha512-JGwcefbL/t7Cc9e2fzcbQGxeI3x8Mf5RN+PKK1NgDxSD/PbhMoVMpOE3fbmKPvAU1aFfvoM9E/S/Z2M8X5ToOQ==
   dependencies:
-    "@nx/next" "18.0.0-kate.5"
+    "@nx/next" "18.0.0-kate.6"
 
-"@nrwl/react@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2freact/-/react-18.0.0-kate.5.tgz#0f4934e3857855a760ea44e705fd5b4cc2d86350"
-  integrity sha512-p3RPXBJ6ro74z5eU9OGysgqWgOOc9UwAk4QxLRn6cydTa0khIUFOjy0+x5zbe5HO3LCLnB27grQxLGqb0pr9fA==
+"@nrwl/react@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2freact/-/react-18.0.0-kate.6.tgz#b65c6f8e37c1ad8428ecaa453485eb584eb38ad2"
+  integrity sha512-6cgweiF4T/1GxcbEVBzGSBP4Dld3Arer4rTp/sUYENLlS4bLGYvLEsBElfB7Q1Ip1r19ei9jnNe4pqf1RrHT3Q==
   dependencies:
-    "@nx/react" "18.0.0-kate.5"
+    "@nx/react" "18.0.0-kate.6"
 
-"@nrwl/storybook@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fstorybook/-/storybook-18.0.0-kate.5.tgz#dec0d82e7f19de6ad7b82a7135796b0ca1fa44df"
-  integrity sha512-EbJDTkXHJ7gHGFROiZgnYa6O2Hx8tOVQEzzInBkE2+LzQW//0cFCGkBDTRYGR6McCLxWmQ/d6mO+vnm8ttYprQ==
+"@nrwl/storybook@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fstorybook/-/storybook-18.0.0-kate.6.tgz#62188666ec01ca5e7f7032c2526d2c6a9bf844ed"
+  integrity sha512-1Zn7zERfbbnTan2mk5D/OERF4stwAhGhCSCuJ+En8meA8LxeMrdwzr88izMDwrpf1Qbmg7CzkGJym6lpXmUOVA==
   dependencies:
-    "@nx/storybook" "18.0.0-kate.5"
+    "@nx/storybook" "18.0.0-kate.6"
 
-"@nrwl/tao@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2ftao/-/tao-18.0.0-kate.5.tgz#3a407f379fd10ee932746af2a3faa17b603cde83"
-  integrity sha512-ZIjtbQY1EbK+s/9HxLwbnzBinZQ7BtfBnAbOMc+ojFzqA2VbXJ04eZaLTOEwy4l6n2nAyz9hrhI1kR8bR66JJw==
+"@nrwl/tao@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2ftao/-/tao-18.0.0-kate.6.tgz#0490100c0c6cd851724679b00abbb0ad4ebfcbb2"
+  integrity sha512-qawm0M7lUTO8jEEi8LoVbxY6228uzzwfd+eoQojzfEWqeBwt9sM61AgIAEV7kL661APyHw6nRnghAHDFD3aCqw==
   dependencies:
-    nx "18.0.0-kate.5"
+    nx "18.0.0-kate.6"
     tslib "^2.3.0"
 
-"@nrwl/vite@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fvite/-/vite-18.0.0-kate.5.tgz#3fd74d31f3e606c5c9f9a11d879dd6abe34869fe"
-  integrity sha512-fSZrpxF16IA5fa5r3yHLptnvg2+TWkExWApCUg6aYTVhU1GUuVPgFFzApHM+ClJUGUUyaSC5m/sczGv2R3nRww==
+"@nrwl/vite@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fvite/-/vite-18.0.0-kate.6.tgz#c4e913b5170884d9b74cfa0a99e540f605ae2cd9"
+  integrity sha512-6obbEnbnOg6nRYoJafmVeyFCiSZq+dlMDAzF6eo9Fwj79kg0UqQMHjbRMkHt6WpwhdjlqdNNuHNquM0HMDp5qQ==
   dependencies:
-    "@nx/vite" "18.0.0-kate.5"
+    "@nx/vite" "18.0.0-kate.6"
 
-"@nrwl/web@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fweb/-/web-18.0.0-kate.5.tgz#3e4e4c49d91fc8b64c5136e7dcc2155fb51b5b64"
-  integrity sha512-DIOaq91ioWv2EfofeJui8S9zRofzLSMSmHQrfGjWBHc/VH2f/rzCxwdVHAB2AMjN80T9Qb3SNNVmR5r7FfJOKw==
+"@nrwl/web@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fweb/-/web-18.0.0-kate.6.tgz#e3afd9e6d7f171d54fe2f0cac8c53155cbeedeee"
+  integrity sha512-z3hk1Kpy6rRmL/H6tGRtOO/N4CvwI4IGuhSzIIggRS00vzCs9Zav1xbBZWW2Xz/7TzHGS5K916CCjnNpNI7tLQ==
   dependencies:
-    "@nx/web" "18.0.0-kate.5"
+    "@nx/web" "18.0.0-kate.6"
 
-"@nrwl/webpack@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fwebpack/-/webpack-18.0.0-kate.5.tgz#2e175ea4aee9d17049629c01fb9b6099a60c65d6"
-  integrity sha512-ZmVho4iV925oqdlBd3u7hu/Bhqj3G81smEoXG0uGLdbj0G5aWMa8L0PZ9Njj/KAYGT3RBOWUqSTE+AhcJKaEaQ==
+"@nrwl/webpack@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fwebpack/-/webpack-18.0.0-kate.6.tgz#c3077f0827a0aa83c82ad934f5c9ebdfdf405381"
+  integrity sha512-xLJij9E/cFPlarTvqTCHdCdLMDBVIVobIDvic6/2PXLkqwdfXlSIlTzFW4+libAkJNiRvsWtxKipbpw5AH9Jdw==
   dependencies:
-    "@nx/webpack" "18.0.0-kate.5"
+    "@nx/webpack" "18.0.0-kate.6"
 
-"@nrwl/workspace@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nrwl%2fworkspace/-/workspace-18.0.0-kate.5.tgz#491b320459e2fd468f8f9cb7d060237530653b65"
-  integrity sha512-erZ/eSu//qbsUoC6f343oeIEfEoTZYE0ITute+8MeMc1hCsUSAFWD0Xjd2oBGicBhTxeS/jjInpcTwwCxOBCBA==
+"@nrwl/workspace@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nrwl%2fworkspace/-/workspace-18.0.0-kate.6.tgz#9dab3126dc23636fc44ec8e74e937f4ab0b097f7"
+  integrity sha512-bst69Zl88Xo2y7w2v/Wv+enE/qdPax6g62qlpRvxJe6GvgZ2mdAvVXZo6PIU5nHbzattLlZ29ptBkxLTmjVOmA==
   dependencies:
-    "@nx/workspace" "18.0.0-kate.5"
+    "@nx/workspace" "18.0.0-kate.6"
 
-"@nx/angular@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fangular/-/angular-18.0.0-kate.5.tgz#6b7628b04a69270ebc82a7c496a8951e0e25cc21"
-  integrity sha512-vdk1wD567rlywlnBZ5B02i0zVyNuf/jTsYyEAyTrq9mS/HkGR8ffXqvutp2q5ZOu+71jjqbhaKBBSt6ueSuI1A==
+"@nx/angular@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fangular/-/angular-18.0.0-kate.6.tgz#cfc733b5505cd132d98e2af30ac08a4cbdc20a43"
+  integrity sha512-b4Wlqa/fDvGsBdW/PeYKGLoAraFohpUOeUZ+5LAHGhTu2O3jqmoLgpGwYSnBkTOgvsQf4wuIuuQ26IPH37l5Zg==
   dependencies:
-    "@nrwl/angular" "18.0.0-kate.5"
-    "@nx/cypress" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/eslint" "18.0.0-kate.5"
-    "@nx/jest" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
-    "@nx/web" "18.0.0-kate.5"
-    "@nx/webpack" "18.0.0-kate.5"
-    "@nx/workspace" "18.0.0-kate.5"
+    "@nrwl/angular" "18.0.0-kate.6"
+    "@nx/cypress" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/eslint" "18.0.0-kate.6"
+    "@nx/jest" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
+    "@nx/web" "18.0.0-kate.6"
+    "@nx/webpack" "18.0.0-kate.6"
+    "@nx/workspace" "18.0.0-kate.6"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@typescript-eslint/type-utils" "^6.9.1"
     chalk "^4.1.0"
@@ -2851,26 +2851,26 @@
     webpack "^5.80.0"
     webpack-merge "^5.8.0"
 
-"@nx/cypress@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fcypress/-/cypress-18.0.0-kate.5.tgz#adadfa1bf19c087e1bc8c3e891d04a0a64f8e212"
-  integrity sha512-d/TU1rcwUimnZwkfcCgUhJtkzTxbQxhNAtSinbrlnDRkFxI1AeXeNyFCnVCw993sJ7y8ArCB4oYN8zW9v28igg==
+"@nx/cypress@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fcypress/-/cypress-18.0.0-kate.6.tgz#71a0b29094a42a626dd1dcf328924f175a7916ff"
+  integrity sha512-vCJG5E7CofPFcEiGRer6f11tZrmLMCOiQAhHIayMbh75DolZxbdZXw48XTHC66Jvt6K44mLnBtWdaR6BxOw7sA==
   dependencies:
-    "@nrwl/cypress" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/eslint" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
+    "@nrwl/cypress" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/eslint" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
     "@phenomnomnominal/tsquery" "~5.0.1"
     detect-port "^1.5.1"
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/devkit@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fdevkit/-/devkit-18.0.0-kate.5.tgz#0bb5af3bffedea030f8d03e3f62a8606d9a34191"
-  integrity sha512-ebCZqgCC4e1Vof4Q8f9dVdX+3qns/emQyVKGZyRbOpaMfgYx3Of7xpskK/pkv0mj0iCRALU1B3B8u8gc7e5ytA==
+"@nx/devkit@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fdevkit/-/devkit-18.0.0-kate.6.tgz#abeb7cd66bcc6d04b126386f5d2e2f2e205130d3"
+  integrity sha512-H8As7UW/gUBOcy6+Pb60Q9Nu8Ja7OUaPj4f9J+vEeMx/Ir97dxSn94NkpSiOKUPGx1WWiQq8FtdsNEu24bbbsA==
   dependencies:
-    "@nrwl/devkit" "18.0.0-kate.5"
+    "@nrwl/devkit" "18.0.0-kate.6"
     ejs "^3.1.7"
     enquirer "~2.3.6"
     ignore "^5.0.4"
@@ -2878,14 +2878,14 @@
     tmp "~0.2.1"
     tslib "^2.3.0"
 
-"@nx/eslint-plugin@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2feslint-plugin/-/eslint-plugin-18.0.0-kate.5.tgz#7ac4661152554bfc37d21207b6aa42b5bffe9c8e"
-  integrity sha512-mMeVPWnfSXMoLVc5rQxCbUR663zYELkGvLsYO0FfII/PMQcueM1TszPPzhg+gAHaoQkrkfCx0OUjCaP48OSprA==
+"@nx/eslint-plugin@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2feslint-plugin/-/eslint-plugin-18.0.0-kate.6.tgz#b4198144d28dc41106ba88747c89ce30d1533103"
+  integrity sha512-1+zJwUKFv9rFDDhJocZ6hCupVZWYth62wle00RqAwWUnSi1PCTrGG0HSVtKozmMtxBBMzAr+7E/FIehUEjJQ9Q==
   dependencies:
-    "@nrwl/eslint-plugin-nx" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
+    "@nrwl/eslint-plugin-nx" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
     "@typescript-eslint/type-utils" "^6.13.2"
     "@typescript-eslint/utils" "^6.13.2"
     chalk "^4.1.0"
@@ -2894,27 +2894,27 @@
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/eslint@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2feslint/-/eslint-18.0.0-kate.5.tgz#97daa062fa35ac465c1d810ecbadb19c8837b6a2"
-  integrity sha512-wh4dnElZAAHvft3nxmAVP13733L6Zm8uDwhROFc2sfuZxUTWkrUPqq2SbMVhXK1AfcfehEkROJ6lmiZajfjqTw==
+"@nx/eslint@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2feslint/-/eslint-18.0.0-kate.6.tgz#1d148acf2205f492ab7c80101d1c0461c2d4c272"
+  integrity sha512-gpVZkLW3g7DToQBPOwaI1SmJ9VCcForYJRapmwXX5eDj2288tQ6Ai5nPF6Ah8qlWtX4wZ3xAkFoNm3McN4R3AQ==
   dependencies:
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
-    "@nx/linter" "18.0.0-kate.5"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
+    "@nx/linter" "18.0.0-kate.6"
     tslib "^2.3.0"
     typescript "~5.2.2"
 
-"@nx/jest@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fjest/-/jest-18.0.0-kate.5.tgz#fbd06e107d153a178c522f0ee5cd23772a58f0f8"
-  integrity sha512-XGO/irCIoFIuJluFN8QTkADaJ+M9pIqebcEyKQaBqazKyC7E7FqjSKRm7qXDIk2MPmYefr+HQzfj65XohLeF/g==
+"@nx/jest@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fjest/-/jest-18.0.0-kate.6.tgz#e9b87f5c7e4df79536fd0d853600c63b8a30b489"
+  integrity sha512-WV7uFDmBOB9+oT8koNQBjnxs56jTs7iNn7AI8Oh336VpfM89xLGqB2JLYMqMbPFE9t5FFf1OgxgPIx8QMjpBCg==
   dependencies:
     "@jest/reporters" "^29.4.1"
     "@jest/test-result" "^29.4.1"
-    "@nrwl/jest" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
+    "@nrwl/jest" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
     "@phenomnomnominal/tsquery" "~5.0.1"
     chalk "^4.1.0"
     identity-obj-proxy "3.0.0"
@@ -2924,10 +2924,10 @@
     resolve.exports "1.1.0"
     tslib "^2.3.0"
 
-"@nx/js@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fjs/-/js-18.0.0-kate.5.tgz#4774a505af38e00bf0d41ac763552aa3fa99cb5d"
-  integrity sha512-B89iskqEZv4yGTKStgjtRynJ09vBMg7PZyqBRREbnTIb2NdGmxEv+rKZAnIXuLWQ9M4sSyZiqimaxLmciSy1VQ==
+"@nx/js@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fjs/-/js-18.0.0-kate.6.tgz#146c663a5e58f0f557cc179a22ad8def63c30909"
+  integrity sha512-NYTIYu/6Og8f6sjoEmTa4SEVJpRlnC39TAydLnThesiXDSPBD6M+SFBZzNaxRsF368EwcWPVCtivyjmo++6kZQ==
   dependencies:
     "@babel/core" "^7.22.9"
     "@babel/plugin-proposal-decorators" "^7.22.7"
@@ -2936,9 +2936,9 @@
     "@babel/preset-env" "^7.22.9"
     "@babel/preset-typescript" "^7.22.5"
     "@babel/runtime" "^7.22.6"
-    "@nrwl/js" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/workspace" "18.0.0-kate.5"
+    "@nrwl/js" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/workspace" "18.0.0-kate.6"
     "@phenomnomnominal/tsquery" "~5.0.1"
     babel-plugin-const-enum "^1.0.1"
     babel-plugin-macros "^2.8.0"
@@ -2960,26 +2960,26 @@
     tsconfig-paths "^4.1.2"
     tslib "^2.3.0"
 
-"@nx/linter@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2flinter/-/linter-18.0.0-kate.5.tgz#4d233daec99824f054f156b65e12a938c1bddab3"
-  integrity sha512-5KDUUs8yxPQV2z3o1/jetFy98NPHmzrxd19E/t3s614PdhL6gc8xRX1ElkyHvpkLBVjwFHRSLzFktG3gvbSpUA==
+"@nx/linter@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2flinter/-/linter-18.0.0-kate.6.tgz#2b932790be88da25f2151f74a93c5f921c074a47"
+  integrity sha512-ksZWvNmGOcT8QCIRouHp6d58FatG/OTdHGeMZEWG4QSX99gR7E4mtNrIi0EnEBFtq1tA5GwKarIljLiOrSqfUA==
   dependencies:
-    "@nx/eslint" "18.0.0-kate.5"
+    "@nx/eslint" "18.0.0-kate.6"
 
-"@nx/next@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnext/-/next-18.0.0-kate.5.tgz#906f119f7fdaf5d1e4912c94b0dca11c6cfd3fbf"
-  integrity sha512-kLT4Uv6K7RasyVcUy555TSJG7efdb9+aylWrs8mIFkgpW1wOOfPXA0alHwHXeuBc8gcx1UBWfp8YeVwHRbkmYQ==
+"@nx/next@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnext/-/next-18.0.0-kate.6.tgz#05ab57f8a84c53d1f40d8517dfccd52ce22aec65"
+  integrity sha512-19RT24mkpegWU290DYZUfRYDFT5h2tfAsPNrrIxbEoASDXa4fapkGIAYpLqQBKkE8scgy0SSQrC7AhpThkZmIw==
   dependencies:
     "@babel/plugin-proposal-decorators" "^7.22.7"
-    "@nrwl/next" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/eslint" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
-    "@nx/react" "18.0.0-kate.5"
-    "@nx/web" "18.0.0-kate.5"
-    "@nx/workspace" "18.0.0-kate.5"
+    "@nrwl/next" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/eslint" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
+    "@nx/react" "18.0.0-kate.6"
+    "@nx/web" "18.0.0-kate.6"
+    "@nx/workspace" "18.0.0-kate.6"
     "@svgr/webpack" "^8.0.1"
     chalk "^4.1.0"
     copy-webpack-plugin "^10.2.4"
@@ -2990,77 +2990,77 @@
     url-loader "^4.1.1"
     webpack-merge "^5.8.0"
 
-"@nx/nx-darwin-arm64@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-darwin-arm64/-/nx-darwin-arm64-18.0.0-kate.5.tgz#d63bd59b73713de3d37cc1d48d0d6578b9df20d5"
-  integrity sha512-fBsS/e6zJtxenMvgxd7PQSWq+D0AMBVyCu+UR9KJF4ZbkZgohO0r4QlQ05p3DMMGpu3Hfkgwu03zazaM+qS1fg==
+"@nx/nx-darwin-arm64@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-arm64/-/nx-darwin-arm64-18.0.0-kate.6.tgz#5b30b47dbb828eaab001291edaf387c40662a461"
+  integrity sha512-xVK+VU3pgFiWqgAS4J2R85js3uiL+h3FTz4mvTTVOgFsKnCm87oUJOrjRQPLWj8z2YepoWRss7K/nSrQY074bQ==
 
-"@nx/nx-darwin-x64@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-darwin-x64/-/nx-darwin-x64-18.0.0-kate.5.tgz#3db9b65986dfe34f019ce149ee7f19e428a0849c"
-  integrity sha512-T6mQqsH5sC7quAiFA/tuzr5G1O8DMJxV2nRya06PD7RjZBTTaQjQary8Qa3fC3OMnZ/kgntyVW3onlq3S2UF5w==
+"@nx/nx-darwin-x64@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-x64/-/nx-darwin-x64-18.0.0-kate.6.tgz#4102e9454caa3b217b8e24e6cb9b963ecb1c1743"
+  integrity sha512-HhiLnO7JI5btcEkh+2XxjxUVtKjWUBePETBLS/EqWsrJW3TfLndJ0elXy+SUY7UkNUI10oP9H249SFYmsNHx2w==
 
-"@nx/nx-freebsd-x64@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-freebsd-x64/-/nx-freebsd-x64-18.0.0-kate.5.tgz#3ecd7311815b7541dc658dddb820413953a06605"
-  integrity sha512-TlsPemMAr82SwM3BZRSajQJlzA/J2ZvFACQBZ5Hdfj+GRUG3Vlv6fH321VShvNG6nyX/xsp62bHaiqcOjamuuQ==
+"@nx/nx-freebsd-x64@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-freebsd-x64/-/nx-freebsd-x64-18.0.0-kate.6.tgz#981fbdd298f1293ae9da7c0036691b85acd505ca"
+  integrity sha512-1oTu55T1mIy6Eana3Y1yqwiWvIiRdbr1SNuFCTl0fIH+XPjuKnjMSzMFfIBcoW9Up/Zux/7oKUWLaUOT09JfSA==
 
-"@nx/nx-linux-arm-gnueabihf@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-18.0.0-kate.5.tgz#484049d683d8825177fff7c1c7755cfeac016360"
-  integrity sha512-fJdpnpZwLjTHqwT9CRS8LyBjxirdRwQN65e1zU5Sex/Ql3feR3k0pWXt0JtWhl7U9xuFGPrZYD0Y3lBYmFnnBw==
+"@nx/nx-linux-arm-gnueabihf@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-18.0.0-kate.6.tgz#9e7a3e0562c282c74f5d7402113c789a8d240812"
+  integrity sha512-oylejApgXtPfoBSrLey2lu8wqm0ihu/a7BQyizQuEI6O6zVLoJUFg8gi0ddTpjYqPGTzgO2pYyUPiRBCOVIKLw==
 
-"@nx/nx-linux-arm64-gnu@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-gnu/-/nx-linux-arm64-gnu-18.0.0-kate.5.tgz#22998c5d76f6a57b851efad4fa640d448f885c4a"
-  integrity sha512-wvX3U4lwCZmfvC5QxdHDvcos03BT1UMUSbhHH2EgyNRR8fXL01TCQSQUfR6KYlHacGnPzWi6mj9cSlQJKm2hFw==
+"@nx/nx-linux-arm64-gnu@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-gnu/-/nx-linux-arm64-gnu-18.0.0-kate.6.tgz#7a2e574dd141262bb27330d32d1c925bdb88ac70"
+  integrity sha512-YYlflZmwOFdmoYUOuG2S0IUdkwlCUEyxOLWi5vkeMUHweRi76VcRooyZCW89pJRB0u0Gna/N4aYGj8Ws3au9mg==
 
-"@nx/nx-linux-arm64-musl@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-musl/-/nx-linux-arm64-musl-18.0.0-kate.5.tgz#c62730c28f81ecf4b70c92abdfcd3e26059f0162"
-  integrity sha512-5to5viqPyvGUn6HDYSe317ijKvwa5A7LJNz7HmYAMfOwijUhlqzMd3G8B37LeU02OWcTZmbb7y8o3ab6pTS/3Q==
+"@nx/nx-linux-arm64-musl@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-musl/-/nx-linux-arm64-musl-18.0.0-kate.6.tgz#65582ed7a05afc1e001aaf9045b733b15a301b34"
+  integrity sha512-M+IGnkFKTGB6u5Qinoy5atX0MSJJ1kJBd4EE7E9xxI6Qb/kbLMOoe4UqewC3MYaTtulWvSSFGk3LTwXXroAN5A==
 
-"@nx/nx-linux-x64-gnu@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-linux-x64-gnu/-/nx-linux-x64-gnu-18.0.0-kate.5.tgz#1a538ec3d4b933be31f594e6cfd9436f9818865e"
-  integrity sha512-tpnLauPeOYyhh3clJdJMqjbj/ZFr1IlRiyZgc87DB/YnbaI3t3XvPXrlE9PCYGS+AS261m4CVtVJbWhjul6rVw==
+"@nx/nx-linux-x64-gnu@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-gnu/-/nx-linux-x64-gnu-18.0.0-kate.6.tgz#24837cf7cdd474c7b5ea3262c8e3eaed7f3a0983"
+  integrity sha512-8FalhOIjSKgsu3PtRbtXldXilRm09iWrD7sTu7BbEDtFZzf1X4gbRweukrGzuw4g6octkAbWSjfVBzpxDoeEXQ==
 
-"@nx/nx-linux-x64-musl@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-linux-x64-musl/-/nx-linux-x64-musl-18.0.0-kate.5.tgz#441d6d6f05c938d62c46c99f5d54a85ce547cdd2"
-  integrity sha512-UwllJh3pwCKD03KU+5dPfswQ0fiPTl2eJhDMumJs+3LQDkXfFGRh9VnHCc7p5ufn//zn0LLtgPMUkIDjVDW7Gw==
+"@nx/nx-linux-x64-musl@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-musl/-/nx-linux-x64-musl-18.0.0-kate.6.tgz#92e44de5a73dc7bba78ffe51ff35bab5bb3e14d4"
+  integrity sha512-vb8ekcEiuiTzSCLWg9zAY9Jxe/EgXqKeiNMVFy5Y6Z//CF9V/ZVjf4ItThHSC7SOCWw5dp5pxib6+ElIPzSvCA==
 
-"@nx/nx-win32-arm64-msvc@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-win32-arm64-msvc/-/nx-win32-arm64-msvc-18.0.0-kate.5.tgz#9ab0b79386871f03a1fabeaeef2ed1e340fc06e7"
-  integrity sha512-XDjSevo6mQd371mEr1NfvOm66sN2Haq1p7n0V5hrTD/ry71AuxPRvjbST7uo+KXPINl/fogmrs2eLwPjJVP39A==
+"@nx/nx-win32-arm64-msvc@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-win32-arm64-msvc/-/nx-win32-arm64-msvc-18.0.0-kate.6.tgz#21630303332f501527f47f8d40ed8cd2fc14a7b7"
+  integrity sha512-bywZzCPsEG2UeCNSlcOKqf1/rO50L0OXOoaXwIZxwG3tniNtHcdeB3F4WbYxdJCjRbpmtwjCbAB7YdB6qc500Q==
 
-"@nx/nx-win32-x64-msvc@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fnx-win32-x64-msvc/-/nx-win32-x64-msvc-18.0.0-kate.5.tgz#ea5f23e06abe58bf88d7f1d44bfeecba9853b106"
-  integrity sha512-Zs6VfjMj7Qd8muenZdwJs0SBFT5HKbMnfXtRg8ptCcjYpJ0WasTYyF2uYjKHu8dmZcSqny5ixfzBboyvcyZs1g==
+"@nx/nx-win32-x64-msvc@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fnx-win32-x64-msvc/-/nx-win32-x64-msvc-18.0.0-kate.6.tgz#c2c03970884db287e2e9554f6919ee35ae15c915"
+  integrity sha512-y6BI4KCFJU+ncYBHIk2BfTLcUKsXDxLiT4mDcbunL65jgFDrDc2Zz7rTR2rypl9aXGR5hVVhikZ4p/BWEahNGg==
 
-"@nx/playwright@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fplaywright/-/playwright-18.0.0-kate.5.tgz#f4dee40cd445913cc19b460b0e99870d06afa6f9"
-  integrity sha512-0oDk+4loFflBavh2EtlmxphwdlbWF+tfvFcsNpxoiJtxo3OGGuiqdjeSipVgb6YmVduc3y5sio7fgJY6fevmiQ==
+"@nx/playwright@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fplaywright/-/playwright-18.0.0-kate.6.tgz#94916c564a76642b74af4779685c2a8cb4ab99f7"
+  integrity sha512-oKZV4M75+yP508yO2gJGymqL/EEmTteJH4NinYS53GoZGeuFCwTv3AYKJ7Y8ADak+Qvf+GioJ24TATAlrwFEHw==
   dependencies:
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/eslint" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/eslint" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
     minimatch "3.0.5"
     tslib "^2.3.0"
 
-"@nx/react@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2freact/-/react-18.0.0-kate.5.tgz#c15e41f291b67e44e82188865148fb3b663a318c"
-  integrity sha512-RKwYvWH6l+agZs7hFhTkKvrWje7B5uCQkca/n3Sijj3e0daacVqCS8Jt8j6O4NauZ8/CRmpr6mVK1tq/lEX28g==
+"@nx/react@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2freact/-/react-18.0.0-kate.6.tgz#3d429121a4d3c8d4eb5527fc981d13b2c2bc8670"
+  integrity sha512-pqchZcGooGLn6LVzaluuTlaslpDkE593RwPVf1fj46oo0vrUl1XKcZRLwm5E4P5XGF+fwvgyyqkgYZzBaSPppw==
   dependencies:
-    "@nrwl/react" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/eslint" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
-    "@nx/web" "18.0.0-kate.5"
+    "@nrwl/react" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/eslint" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
+    "@nx/web" "18.0.0-kate.6"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@svgr/webpack" "^8.0.1"
     chalk "^4.1.0"
@@ -3068,55 +3068,55 @@
     minimatch "3.0.5"
     tslib "^2.3.0"
 
-"@nx/storybook@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fstorybook/-/storybook-18.0.0-kate.5.tgz#d913f59835900e63af18e31faf1603ff080f0d30"
-  integrity sha512-kwGT8EFM6hRBiU/4LNMzVoR/B5fklxye9i0W1vHRhh3RMpZToc1H+MdaMMBavxgYYZhiHvVucrRNesSL7Sx3mQ==
+"@nx/storybook@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fstorybook/-/storybook-18.0.0-kate.6.tgz#52d8071575ade522492acbc7d5451d42eab8ac46"
+  integrity sha512-itJCcs+O3NqiTMGH4Ezjma94IjORwx87Z/lzwxO8iG+g3XH8v1TSJD5TMI3Ri73jrSZrydteRC03+2Dt/RLnig==
   dependencies:
-    "@nrwl/storybook" "18.0.0-kate.5"
-    "@nx/cypress" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/eslint" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
+    "@nrwl/storybook" "18.0.0-kate.6"
+    "@nx/cypress" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/eslint" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
     "@phenomnomnominal/tsquery" "~5.0.1"
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/vite@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fvite/-/vite-18.0.0-kate.5.tgz#384704eb5e1f399b28e98e8d5ed7296f097ed126"
-  integrity sha512-mTwwF3yfQhFZmFWUtCz7ZO+JTE7c4ue4cwA5acF68Dzl4m4Yt5QdM1zePfpeMwvXu9GtsX/SsmAfn+JjZzfN2g==
+"@nx/vite@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fvite/-/vite-18.0.0-kate.6.tgz#ec410ab7e10667b40063e173fd541b93c3c3cf30"
+  integrity sha512-tqNEAX9kFvoLZVtzmbPyYgewfH0NN7ECggkhzuG3z+U+2GXE7jRguH5axs3idvWa9lg/DQgGq6swgKRD7nB1xw==
   dependencies:
-    "@nrwl/vite" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
+    "@nrwl/vite" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@swc/helpers" "~0.5.0"
     enquirer "~2.3.6"
     tsconfig-paths "^4.1.2"
 
-"@nx/web@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fweb/-/web-18.0.0-kate.5.tgz#94ace782a7f362564fc0e19c6cfafba0183522d0"
-  integrity sha512-I3nrswfcXRUcXfPo63XsN5hx6283+QBCfo+PMIqbaNiQrzkNN7Tk7UGglsVDrujekyrvqHxk6demBDeQ1VlWgQ==
+"@nx/web@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fweb/-/web-18.0.0-kate.6.tgz#89dcfe4b39ee540ac2432b4ce8e1f4dda7bf736d"
+  integrity sha512-gLGJ7oRtqBzC3+3q/sleI3WWyLWSKxNOEJWFzy7CuWUaY1Qscuxl0y3cBKQImNe/1o5DkC8PjkJ4m+G8OMUOTg==
   dependencies:
-    "@nrwl/web" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
+    "@nrwl/web" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
     chalk "^4.1.0"
     detect-port "^1.5.1"
     http-server "^14.1.0"
     tslib "^2.3.0"
 
-"@nx/webpack@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fwebpack/-/webpack-18.0.0-kate.5.tgz#b1f2fa3bfa6cab44876cd0eb93329f09542b2fd3"
-  integrity sha512-/elh78vaaXSdSDVMeVvTShKXoGbl9FeBF7G3XdG6kQkFISa0OQL7MfsINVkNOyw1jvZ11ncYV/W/2btN8A9cmw==
+"@nx/webpack@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fwebpack/-/webpack-18.0.0-kate.6.tgz#fff9ea0f73ac15972d376251b9268dbb7318b189"
+  integrity sha512-Kr9xV/x2uekdK4bkfTEUG8m2hVRTWcWW2FSeZpfwamjmXKN4AXSLBcW8RQLBvdx5xzuP5okRsrQ1RLanlTXOcQ==
   dependencies:
     "@babel/core" "^7.22.9"
-    "@nrwl/webpack" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
-    "@nx/js" "18.0.0-kate.5"
+    "@nrwl/webpack" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
+    "@nx/js" "18.0.0-kate.6"
     autoprefixer "^10.4.9"
     babel-loader "^9.1.2"
     browserslist "^4.21.4"
@@ -3150,16 +3150,16 @@
     webpack-node-externals "^3.0.0"
     webpack-subresource-integrity "^5.1.0"
 
-"@nx/workspace@18.0.0-kate.5":
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/@nx%2fworkspace/-/workspace-18.0.0-kate.5.tgz#f02d3ec368cdd5a376f98669f57b2732f46ce747"
-  integrity sha512-YzrpZVA1h4UHq1yRnp0QlKm3THwGjzDyFOA9XbNiaAwTP43A0sKqruAeJ9WmF1SuaBtaHKZdvWM6nILLBfendQ==
+"@nx/workspace@18.0.0-kate.6":
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/@nx%2fworkspace/-/workspace-18.0.0-kate.6.tgz#11152683b2793dac6ded375f9b79539b230da2f7"
+  integrity sha512-h9X4jE2KP25dzdeZzD+oJPsi68somM8iNwMxO/Q0w3y3PNBoqlRBiOS3olLEBVIPapU2gCmlkJG5vsL0n87tGw==
   dependencies:
-    "@nrwl/workspace" "18.0.0-kate.5"
-    "@nx/devkit" "18.0.0-kate.5"
+    "@nrwl/workspace" "18.0.0-kate.6"
+    "@nx/devkit" "18.0.0-kate.6"
     chalk "^4.1.0"
     enquirer "~2.3.6"
-    nx "18.0.0-kate.5"
+    nx "18.0.0-kate.6"
     tslib "^2.3.0"
     yargs-parser "21.1.1"
 
@@ -13527,12 +13527,12 @@ nwsapi@^2.2.2, nwsapi@^2.2.4:
   resolved "http://localhost:4873/nwsapi/-/nwsapi-2.2.7.tgz#738e0707d3128cb750dddcfe90e4610482df0f30"
   integrity sha512-ub5E4+FBPKwAZx0UwIQOjYWGHTEq5sPqHQNRN8Z9e4A7u3Tj1weLJsL59yH9vmvqEtBHaOmT6cYQKIZOxp35FQ==
 
-nx@18.0.0-kate.5:
-  version "18.0.0-kate.5"
-  resolved "http://localhost:4873/nx/-/nx-18.0.0-kate.5.tgz#4dac374be849dda9e131e866e050ad7e3d8dd2de"
-  integrity sha512-FZER9njGozLEhKzRrQG6qzMq719O0ogEgTUj9YQe2WqMZMWBgiE4kyzAzTyDTdKlMuDAwym2WFXJIG6gNvj70A==
+nx@18.0.0-kate.6:
+  version "18.0.0-kate.6"
+  resolved "http://localhost:4873/nx/-/nx-18.0.0-kate.6.tgz#64aa8385d37ff628c244f1388ad3586f0cd650a9"
+  integrity sha512-PVuPzjfhARmMZSZ6RHYrVTy/lVdygVbYti5IGzMNsuO7StwQNeVrox/T71W/31z0l6/IV6eiK6k+K6J1FiD+eA==
   dependencies:
-    "@nrwl/tao" "18.0.0-kate.5"
+    "@nrwl/tao" "18.0.0-kate.6"
     "@yarnpkg/lockfile" "^1.1.0"
     "@yarnpkg/parsers" "3.0.0-rc.46"
     "@zkochan/js-yaml" "0.0.6"
@@ -13567,16 +13567,16 @@ nx@18.0.0-kate.5:
     yargs "^17.6.2"
     yargs-parser "21.1.1"
   optionalDependencies:
-    "@nx/nx-darwin-arm64" "18.0.0-kate.5"
-    "@nx/nx-darwin-x64" "18.0.0-kate.5"
-    "@nx/nx-freebsd-x64" "18.0.0-kate.5"
-    "@nx/nx-linux-arm-gnueabihf" "18.0.0-kate.5"
-    "@nx/nx-linux-arm64-gnu" "18.0.0-kate.5"
-    "@nx/nx-linux-arm64-musl" "18.0.0-kate.5"
-    "@nx/nx-linux-x64-gnu" "18.0.0-kate.5"
-    "@nx/nx-linux-x64-musl" "18.0.0-kate.5"
-    "@nx/nx-win32-arm64-msvc" "18.0.0-kate.5"
-    "@nx/nx-win32-x64-msvc" "18.0.0-kate.5"
+    "@nx/nx-darwin-arm64" "18.0.0-kate.6"
+    "@nx/nx-darwin-x64" "18.0.0-kate.6"
+    "@nx/nx-freebsd-x64" "18.0.0-kate.6"
+    "@nx/nx-linux-arm-gnueabihf" "18.0.0-kate.6"
+    "@nx/nx-linux-arm64-gnu" "18.0.0-kate.6"
+    "@nx/nx-linux-arm64-musl" "18.0.0-kate.6"
+    "@nx/nx-linux-x64-gnu" "18.0.0-kate.6"
+    "@nx/nx-linux-x64-musl" "18.0.0-kate.6"
+    "@nx/nx-win32-arm64-msvc" "18.0.0-kate.6"
+    "@nx/nx-win32-x64-msvc" "18.0.0-kate.6"
 
 nyc@^15.1.0:
   version "15.1.0"
